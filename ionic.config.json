@@ -1,5 +1,7 @@
 {
   "name": "capacitor-flex-bug",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
